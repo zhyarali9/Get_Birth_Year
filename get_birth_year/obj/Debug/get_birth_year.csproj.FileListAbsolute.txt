@@ -1,0 +1,7 @@
+E:\Third Stage\Visual Studio C#\get_birth_year\get_birth_year\bin\Debug\get_birth_year.exe.config
+E:\Third Stage\Visual Studio C#\get_birth_year\get_birth_year\bin\Debug\get_birth_year.exe
+E:\Third Stage\Visual Studio C#\get_birth_year\get_birth_year\bin\Debug\get_birth_year.pdb
+E:\Third Stage\Visual Studio C#\get_birth_year\get_birth_year\obj\Debug\get_birth_year.csprojAssemblyReference.cache
+E:\Third Stage\Visual Studio C#\get_birth_year\get_birth_year\obj\Debug\get_birth_year.csproj.CoreCompileInputs.cache
+E:\Third Stage\Visual Studio C#\get_birth_year\get_birth_year\obj\Debug\get_birth_year.exe
+E:\Third Stage\Visual Studio C#\get_birth_year\get_birth_year\obj\Debug\get_birth_year.pdb
